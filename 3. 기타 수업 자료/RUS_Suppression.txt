@@ -1,0 +1,5 @@
+Russian Name,English Name
+Лев Троцкий,Leon Trotsky
+Григорий Зиновьев,Grigory Zinoviev
+Лев Каменев,Lev Kamenev
+Марк Шагал,Marc Chagall

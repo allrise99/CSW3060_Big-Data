@@ -1,0 +1,35 @@
+Name	Birth.Year	Occupation
+Abraham Lincoln	1809	Politician
+Nelson Mandela	1918	Politician
+John F. Kennedy	1917	Politician
+Winston Churchill	1874	Politician
+Mahatma Gandhi	1869	Politician
+Charles Darwin	1809	Scientist
+Albert Einstein	1879	Scientist
+Jawaharlal Nehru	1889	Politician
+Vincent Van Gogh	1853	Artist
+Franklin D. Roosevelt	1882	Politician
+Thomas Edison	1847	Scientist
+Rosa Parks	1913	Politician
+Lyndon Johnson	1908	Politician
+Indira Gandhi	1917	Politician
+George Orwell	1903	Author
+Jesse Owens	1913	Athlete
+Joseph Stalin	1879	Politician
+Vladimir Lenin	1870	Politician
+Ingrid Bergman	1915	Actor
+Leo Tolstoy	1828	Author
+Pablo Picasso	1881	Artist
+Oscar Wilde	1854	Author
+Coco Chanel	1883	Artist
+Charles de Gaulle	1890	Politician
+John M. Keynes	1883	Scholar
+Louis Pasteur	1822	Scientist
+Adolf Hitler	1889	Politician
+Alfred Hitchcock	1899	Artist
+Ronald Reagan	1911	Politician
+Babe Ruth	1895	Athlete
+Sigmund Freud	1856	Scholar
+Woodrow Wilson	1856	Politician
+Mao Zedong	1893	Politician
+Katherine Hepburn	1907	Actor

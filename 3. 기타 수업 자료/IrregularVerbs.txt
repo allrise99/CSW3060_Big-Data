@@ -1,0 +1,13 @@
+Infinitive	Regular	Irregular
+burn	burned	burnt
+dive	dived	dove
+dream	dreamed	dreamt
+dwell	dwelled	dwelt
+kneel	kneeled	knelt
+learn	learned	learnt
+light	lighted	lit
+slink	slinked	slunk
+spill	spilled	spilt
+spoil	spoiled	spoilt
+strive	strived	strove
+wake	waked	woke
